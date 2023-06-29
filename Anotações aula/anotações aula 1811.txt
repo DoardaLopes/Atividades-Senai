@@ -1,0 +1,22 @@
+Maria Eduarda Lopes Ribeiro
+aplicativos operacionais
+java
+c#
+mainframe
+red hat
+linux
+calilinux
+
+ virus
+furto de senhas 
+roubo de dados
+invasão de privaciidade
+danificaçao do sistema
+invação a conta de acesso a internet de redes sociais
+
+o virus sao programas ou parte de programas de computador geralmente maliciosos que sao carregados em seu computador sem seu conhecimento ou permissao e se propaga
+inserindo copias de si mesmo e se tornando parte de outros programas e arquivos de computador
+São escritos especialmente para destruir arquivos e/ou perturbar o funcionamento de computadores
+Ele depende da execução do programa ou arquivo hospedeiro para que possa se tornar ativo e dar continuidade ao processo de infecção
+É auto executavel geralmente coloca seu codigo no caminho de execução de outro programa
+Duplica a si proprio utiliza-se da rede para se multiplicar atraves de emais ou recursos compartilhados
